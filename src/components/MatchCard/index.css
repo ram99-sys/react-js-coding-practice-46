@@ -54,10 +54,11 @@
 @media screen and (max-width: 576px) {
   .competing-team-image-url {
     width: 100%;
-    height: 50%;
+    height: 150px;
   }
   .competing-team-item {
     font-size: 16px;
+    padding-bottom: 50px;
   }
   .result-text {
     font-size: 16px;
